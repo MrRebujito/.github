@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="#-mrrebujito">
-    <img src="../screenshots/icono_logo_letras.png" alt="MrRebujito Logo Completo" width="350"/>
+    <img src="../screenshots/icono_logo_letras.png" alt="MrRebujito Logo Completo" width="250"/>
   </a>
   
   <br><br>
