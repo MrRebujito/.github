@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="#-mrrebujito">
-    <img src="screenshots/icono_logo_letras.png" alt="MrRebujito Logo Completo" width="350"/>
+    <img src="../screenshots/icono_logo_letras.png" alt="MrRebujito Logo Completo" width="350"/>
   </a>
   
   <br><br>
@@ -77,22 +77,22 @@ Flexibilidad para adaptarse a cualquier soporte, desde un favicon hasta un carte
     <tr>
       <td align="center" width="33%">
         <sub>Launcher Icon</sub><br>
-        <img src="screenshots/icono_logo.png" width="70%" alt="Icono App"/>
+        <img src="../screenshots/icono_logo.png" width="70%" alt="Icono App"/>
       </td>
       <td align="center" width="33%">
         <sub>Emblema Principal</sub><br>
-        <img src="screenshots/logo_principal.png" width="90%" alt="Logo Principal"/>
+        <img src="../screenshots/logo_principal.png" width="90%" alt="Logo Principal"/>
       </td>
       <td align="center" width="33%">
         <sub>Iconografía UI</sub><br>
-        <img src="screenshots/iconos.png" width="70%" alt="Iconos UI"/>
+        <img src="../screenshots/iconos.png" width="70%" alt="Iconos UI"/>
       </td>
     </tr>
   </table>
   <br>
   
   <p>⬇️ Variaciones de Marca sobre fondos ⬇️</p>
-  <img src="screenshots/variaciones_logo.png" width="65%" style="border-radius: 8px;" alt="Variaciones de Marca"/>
+  <img src="../screenshots/variaciones_logo.png" width="65%" style="border-radius: 8px;" alt="Variaciones de Marca"/>
 </div>
 
 <br>
@@ -102,9 +102,9 @@ Flexibilidad para adaptarse a cualquier soporte, desde un favicon hasta un carte
 Una paleta inspirada en la tierra de albero, los toldos y la noche de feria. Sobriedad para la gestión, calidez para la fiesta.
 
 <div align="center">
-  <img src="screenshots/paleta.png" width="50%" alt="Paleta de Colores"/>
+  <img src="../screenshots/paleta.png" width="50%" alt="Paleta de Colores"/>
   <br><br>
-  <img src="screenshots/terraza.png" width="85%" style="border-radius: 12px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" alt="Ambiente Feria"/>
+  <img src="../screenshots/terraza.png" width="85%" style="border-radius: 12px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" alt="Ambiente Feria"/>
   <br><sub>(Inspiración de ambiente para la interfaz de usuario)</sub>
 </div>
 
@@ -153,7 +153,7 @@ El éxito de MrRebujito es el resultado de la sinergia entre nuestros equipos es
 
 <div align="center">
   <br>
-  <img src="screenshots/icono_logo.png" width="40"/>
+  <img src="../screenshots/icono_logo.png" width="40"/>
   <br>
   <sub>Desarrollado con ❤️ y un poco de 🍷 Rebujito. © 2024 MrRebujito Organization.</sub>
 </div>
