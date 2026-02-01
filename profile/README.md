@@ -1,6 +1,8 @@
+
+
 <div align="center">
-  <img src="../screenshots/icono_logo_letras.png" alt="MrRebujito Logo" width="230"/>
-  
+  <img src="../screenshots/icono_logo.png" alt="MrRebujito Logo" width="230"/>
+  <h1>MrRebujito 🍷</h1>
   <br>
 
   <h3>Gestión Inteligente de Ferias y Casetas</h3>
