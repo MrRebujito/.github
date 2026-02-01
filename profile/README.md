@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="../screenshots/icono_logo.png" alt="MrRebujito Logo" width="230"/>
+  <img src="../screenshots/logo_principal.png" alt="MrRebujito Logo" width="230"/>
   <h1>MrRebujito 🍷</h1>
   <br>
 
