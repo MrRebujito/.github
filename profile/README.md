@@ -3,11 +3,9 @@
   
   <br>
 
-  <h1>🎪 MrRebujito</h1>
   <h3>Gestión Inteligente de Ferias y Casetas</h3>
   
   <p>
-    <b>Solución Digital B2G (Business to Government) & B2B.</b><br>
     Digitalizamos el trámite de licencias, la gestión de socios y la administración de cartas.
   </p>
   
