@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/Web_App-Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </a>
   &nbsp;
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Mobile-Android_Java-E25A1C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Android Java"/>
   </a>
 </div>
 
@@ -47,12 +45,6 @@ Diseñado en tres capas para garantizar seguridad oficial y agilidad en el recin
       <h3>💻 Web App</h3>
       <img src="https://skillicons.dev/icons?i=angular,ts" width="35"/><br><br>
       <b>Angular</b><br>
-      En Desarrollo...
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>📱 Android App</h3>
-      <img src="https://skillicons.dev/icons?i=android,java" width="35"/><br><br>
-      <b>Android (Java)</b><br>
       En Desarrollo...
     </td>
   </tr>
@@ -122,10 +114,12 @@ Un diseño que respeta la tradición pero moderniza la gestión.
           Rafael Lázaro<br>
           Adrián Linares<br>
           Juan Montes<br>
+          José Manuel Jiménez<br>
+          José Ramón López<br>
           Oscar Ruiz
         </td>
         <td align="center" valign="top">
-          <i>Angular / Android (Java)</i><br><br>
+          <i>Angular </i><br><br>
           Alan Cabezas<br>
           Juan José Gamero<br>
           Rafael Lázaro<br>
