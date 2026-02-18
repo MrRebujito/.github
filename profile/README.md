@@ -37,15 +37,15 @@ Diseñado en tres capas para garantizar seguridad oficial y agilidad en el recin
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🛡️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=spring,java" width="35"/><br><br>
+      <img src="https://skillicons.dev/icons?i=spring,java" width="45"/><br><br>
       <b>Spring Boot</b><br>
-      Gestión de seguridad, generación de PDFs oficiales y API REST.
+      Gestión de seguridad y API REST.
     </td>
     <td width="33%" align="center" valign="top">
       <h3>💻 Web App</h3>
-      <img src="https://skillicons.dev/icons?i=angular,ts" width="35"/><br><br>
+      <img src="https://skillicons.dev/icons?i=angular,ts" width="45"/><br><br>
       <b>Angular</b><br>
-      En Desarrollo...
+      Aplicación web espectacular que consume los recursos de la API REST.
     </td>
   </tr>
 </table>
